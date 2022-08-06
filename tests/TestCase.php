@@ -3,8 +3,8 @@
 namespace Kmlpandey77\Trustpayment\Tests;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
-use Orchestra\Testbench\TestCase as Orchestra;
 use Kmlpandey77\Trustpayment\TrustpaymentServiceProvider;
+use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra
 {
